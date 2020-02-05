@@ -1,18 +1,36 @@
 {
-"category":[
-{"id":"1","name":"Happy Annivarsay"},
-{"id":"2","name":"Happy New Year"}
-],
-"image":[
-{"image_url":"https://i.imgur.com/k3fro9s.jpg","category_id":"1","name":"Happy Annivarsay"},
-{"image_url":"https://i.imgur.com/zle6SU7.jpg","category_id":"1","name":"Happy Annivarsay"},
-{"image_url":"https://i.imgur.com/nyhcM1Y.jpg","category_id":"2","name":"Happy New Year"},
-{"image_url":"https://i.imgur.com/nyhcM1Y.jpg","category_id":"2","name":"Happy New Year"},
-{"image_url":"https://i.imgur.com/nyhcM1Y.jpg","category_id":"2","name":"Happy New Year"},
-{"image_url":"https://i.imgur.com/nyhcM1Y.jpg","category_id":"2","name":"Happy New Year"},
-{"image_url":"https://i.imgur.com/nyhcM1Y.jpg","category_id":"2","name":"Happy New Year"},
-{"image_url":"https://i.imgur.com/nyhcM1Y.jpg","category_id":"2","name":"Happy New Year"},
-{"image_url":"https://i.imgur.com/nyhcM1Y.jpg","category_id":"2","name":"Happy New Year"},
-{"image_url":"https://i.imgur.com/nyhcM1Y.jpg","category_id":"2","name":"Happy New Year"}
-]
+  "allTime": [
+    {
+      "url": "https://i.imgur.com/DRe5sQj.png"
+    },
+    {
+      "url": "https://i.imgur.com/gB1iZwY.png"
+    },
+    {
+      "url": "https://i.imgur.com/FTTyPCU.png"
+    },
+    {
+      "url": "https://i.imgur.com/XWawMo8.png"
+    },
+    {
+      "url": "https://i.imgur.com/2boWe26.png"
+    }
+  ],
+  "festival": [
+    {
+      "url": "https://i.imgur.com/rxtolq3.png"
+    },
+    {
+      "url": "https://i.imgur.com/DsNpa1J.png"
+    },
+    {
+      "url": "https://i.imgur.com/bTNjVYe.png"
+    },
+    {
+      "url": "https://i.imgur.com/q1tJxd6.png"
+    },
+    {
+      "url": "https://i.imgur.com/4JZcLhy.png"
+    }
+  ]
 }
