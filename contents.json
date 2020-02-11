@@ -1,0 +1,342 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Jay Mata DI",
+      "publisher": "ImageTag",
+      "tray_image_file": "https://i.imgur.com/cUvu4tu.png",
+      "publisher_email":"imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+       "stickers": [
+        {
+          "image_file": "https://i.imgur.com/gB1iZwY.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/DRe5sQj.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/FTTyPCU.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/XWawMo8.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/YvuqI9a.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/2boWe26.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/zKGOoNF.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/w4jAMoI.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/rN4f8Ri.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/7fk4FhH.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/g3mC6jI.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/vEVHGlE.png",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    }, 
+	{
+      "identifier": "2",
+      "name": "Happy Navratri",
+      "publisher": "ImageTag",
+      "tray_image_file": "https://i.imgur.com/SnpYAb1.png",
+      "publisher_email":"imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+       "stickers": [
+        {
+          "image_file": "https://i.imgur.com/eBY363K.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/nOOgiBp.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/V4DHIcn.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/aB4rwJN.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/GmWNxjJ.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/WipYaOG.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/me2bHWJ.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/HJkELRd.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/9mphUTn.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/98fj8MY.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/orbV5q9.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/y2OGRst.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/Inl1mwo.png",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    },
+	{
+      "identifier": "3",
+      "name": "Garba comments",
+      "publisher": "ImageTag",
+      "tray_image_file": "https://i.imgur.com/AOwtTNz.png",
+      "publisher_email":"imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+       "stickers": [
+        {
+          "image_file": "https://i.imgur.com/adldy04.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/WCMxM7O.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/rxtolq3.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/DsNpa1J.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/bTNjVYe.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/q1tJxd6.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/4JZcLhy.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/BojFhxV.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/lfHqJH3.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/z6UVn28.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/AV7seEZ.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/RdeZufm.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/BkpPwVF.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/Es34vGj.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/TJxSnnJ.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/wc8AfRo.png",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    },
+	{
+      "identifier": "4",
+      "name": "Dussehra Stickers",
+      "publisher": "ImageTag",
+      "tray_image_file": "https://i.imgur.com/eNDZFIw.png",
+      "publisher_email":"imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+       "stickers": [
+        {
+          "image_file": "https://i.imgur.com/5pbRCP0.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/Vx7LYat.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/x2344XQ.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/U63gGEY.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/RXsqTXk.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/bUlPRTs.png",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    },
+	{
+      "identifier": "5",
+      "name": "Text Greeting Stickers",
+      "publisher": "ImageTag",
+      "tray_image_file": "https://i.imgur.com/78VorGj.png",
+      "publisher_email":"imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+       "stickers": [
+        {
+          "image_file": "https://i.imgur.com/JJXhkcP.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/NmyxcJ2.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/GPXHeEB.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/M4Ek0iG.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/F07AhpB.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/ErqAwav.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/4PgQhxn.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/YB7qojd.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/Vv6qDpf.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/O5kD4Wx.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/kiVW5b1.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/Udmm0VZ.png",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "ImageTag Stickers 1",
+      "publisher": "ImageTag",
+      "tray_image_file": "https://i.imgur.com/78VorGj.png",
+      "publisher_email":"imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://i.imgur.com/zLqt7cC.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/QI5aFUS.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/rTE40CG.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/aD4cuN4.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/y9Hz4SR.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/TPb2ZsE.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/HrGlhmx.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/S88CmMy.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/h73Gmno.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/iTNR2LQ.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/8DYEuKx.png",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "ImageTag Stickers 2",
+      "publisher": "ImageTag",
+      "tray_image_file": "https://i.imgur.com/78VorGj.png",
+      "publisher_email":"imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://i.imgur.com/b3ODKKm.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/9dCTlzw.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/K2iemL5.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/D1gp1Qz.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/HNWZGlK.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/ReeJ6xk.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/2Ds1FSH.png",
+          "emojis": ["ðŸ™‚"]
+        },{
+          "image_file": "https://i.imgur.com/909WZer.png",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    }
+
+  ]
+}
