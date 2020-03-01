@@ -1,10 +1,10 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.beststickercollection.wastickerapps",
   "sticker_packs": [
     {
       "identifier": "1",
       "name": "Birthday sticker",
-      "publisher": "ImageTag",
+      "publisher": "Best Sticker collection app",
       "tray_image_file": "https://i.imgur.com/IhQ3h2M.png",
       "publisher_email": "imagetagapplication@gmail.com",
       "publisher_website": "",
@@ -100,7 +100,7 @@
     {
       "identifier": "2",
       "name": "Anniversary sticker",
-      "publisher": "ImageTag",
+      "publisher": "Best Sticker collection app",
       "tray_image_file": "https://i.imgur.com/qq3H1ku.png",
       "publisher_email": "imagetagapplication@gmail.com",
       "publisher_website": "",
@@ -184,7 +184,7 @@
     {
       "identifier": "3",
       "name": "Daily Chat",
-      "publisher": "ImageTag",
+      "publisher": "Best Sticker collection app",
       "tray_image_file": "https://i.imgur.com/B5LgWFw.png",
       "publisher_email": "imagetagapplication@gmail.com",
       "publisher_website": "",
@@ -358,7 +358,7 @@
     {
       "identifier": "9",
       "name": "Emoji Sticker",
-      "publisher": "ImageTag",
+      "publisher": "Best Sticker collection app",
       "tray_image_file": "https://i.imgur.com/GfZZFcC.png",
       "publisher_email": "imagetagapplication@gmail.com",
       "publisher_website": "",
@@ -478,7 +478,7 @@
     {
       "identifier": "6",
       "name": "Boy chat Sticker",
-      "publisher": "ImageTag",
+      "publisher": "Best Sticker collection app",
       "tray_image_file": "https://i.imgur.com/mDfReE6.png",
       "publisher_email": "imagetagapplication@gmail.com",
       "publisher_website": "",
@@ -892,7 +892,7 @@
     {
       "identifier": "5",
       "name": "Bollywood Sticker",
-      "publisher": "ImageTag",
+      "publisher": "Best Sticker collection app",
       "tray_image_file": "https://i.imgur.com/lJCoMp9.png",
       "publisher_email": "imagetagapplication@gmail.com",
       "publisher_website": "",
@@ -1066,7 +1066,7 @@
     {
       "identifier": "10",
       "name": "Office emotions sticker",
-      "publisher": "ImageTag",
+      "publisher": "Best Sticker collection app",
       "tray_image_file": "https://i.imgur.com/Pf7MraI.png",
       "publisher_email": "imagetagapplication@gmail.com",
       "publisher_website": "",
@@ -1222,7 +1222,7 @@
     {
       "identifier": "11",
       "name": "Real human emotions",
-      "publisher": "ImageTag",
+      "publisher": "Best Sticker collection app",
       "tray_image_file": "https://i.imgur.com/vABSRlp.png",
       "publisher_email": "imagetagapplication@gmail.com",
       "publisher_website": "",
@@ -1324,7 +1324,7 @@
     {
       "identifier": "4",
       "name": "Thank You Stickers",
-      "publisher": "ImageTag",
+      "publisher": "Best Sticker collection app",
       "tray_image_file": "https://i.imgur.com/eNDZFIw.png",
       "publisher_email": "imagetagapplication@gmail.com",
       "publisher_website": "",
