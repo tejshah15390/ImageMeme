@@ -1,0 +1,119 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.sticker.ramadanKareemStickers",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Happy Ramadan Kareem Stickers",
+      "publisher": "Ramadan Kareem Stickers App",
+      "tray_image_file": "https://i.imgur.com/SsBygXc.png",
+      "publisher_email": "imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://i.imgur.com/u6l4ajg.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/PN1IkI0.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/bxjwHAf.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/BlYUCZS.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/Uz3dPFJ.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/GtKouoy.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/ZH5HdYw.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/KDC62OG.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/1UDx1MK.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/0xiXAv2.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/fisscvw.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/eDKmAeB.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/pqanNlo.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/BlQ4cXu.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/KA5pL3T.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/z762ryU.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/NwvqJGL.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        }
+      ]
+    }
+  ]
+}
