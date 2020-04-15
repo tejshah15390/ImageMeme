@@ -1,0 +1,143 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.sticker.parshuramjayantisticker",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Happy Parshuram jayanti Stickers",
+      "publisher": "Parshuram jayanti Stickers App",
+      "tray_image_file": "https://i.imgur.com/Pzfz4SI.png",
+      "publisher_email": "imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://i.imgur.com/mKMVyjY.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/pUzLD6w.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/mIIl9zI.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/sPNZ8f6.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/DKYlT8s.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/gvlDWQE.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/hjPrHGP.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/MceYN8N.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/ug9g98C.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/BGWUd3w.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/6aNyUoH.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/qq5JTW1.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/yIJ3Jy7.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Text Parshuram jayanti Stickers",
+      "publisher": "Parshuram jayanti Stickers App",
+      "tray_image_file": "https://i.imgur.com/qDCR7Gi.png",
+      "publisher_email": "imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://i.imgur.com/bJmLklN.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/u9PcYuK.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/GshHv5W.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/sAn8xXx.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/Tv6beQS.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/yv6hsGB.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        }
+      ]
+    }
+  ]
+}
