@@ -2,6 +2,96 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.sticker.ramadanKareemStickers",
   "sticker_packs": [
     {
+      "identifier": "8",
+      "name": "Eid Mubarak Stickers",
+      "publisher": "Ramadan Kareem Stickers App",
+      "tray_image_file": "https://i.imgur.com/0DUNsBf.png",
+      "publisher_email": "imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://i.imgur.com/NsjnXN1.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/4ZfE3kf.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/uTgImFL.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/DbBlPtP.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/IiYBjDG.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/gFzDlMz.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/Bz1R7fg.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/6GsfcMg.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/vsKeuAm.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/OjFo8cz.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/Ywd2ljg.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/7svKsXS.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/s7HqXju.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        }
+      ]
+    },
+    {
       "identifier": "1",
       "name": "Happy Ramadan Kareem Stickers",
       "publisher": "Ramadan Kareem Stickers App",
