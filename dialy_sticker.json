@@ -2,210 +2,6 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.beststickercollection1",
   "sticker_packs": [
     {
-      "identifier": "19",
-      "name": "Eid Mubarak Stickers",
-      "publisher": "Best Sticker collection app",
-      "tray_image_file": "https://i.imgur.com/0DUNsBf.png",
-      "publisher_email": "imagetagapplication@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "https://i.imgur.com/NsjnXN1.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/4ZfE3kf.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/uTgImFL.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/DbBlPtP.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/IiYBjDG.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/gFzDlMz.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/Bz1R7fg.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/6GsfcMg.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/vsKeuAm.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/OjFo8cz.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/Ywd2ljg.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/7svKsXS.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/s7HqXju.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        }
-      ]
-    },
-    {
-      "identifier": "17",
-      "name": "Happy Ramadan Kareem Stickers",
-      "publisher": "Best Sticker collection app",
-      "tray_image_file": "https://i.imgur.com/SsBygXc.png",
-      "publisher_email": "imagetagapplication@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "https://i.imgur.com/u6l4ajg.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/PN1IkI0.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/bxjwHAf.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/BlYUCZS.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/Uz3dPFJ.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/GtKouoy.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/ZH5HdYw.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/KDC62OG.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/1UDx1MK.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/0xiXAv2.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/fisscvw.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/eDKmAeB.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/pqanNlo.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/BlQ4cXu.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/KA5pL3T.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/z762ryU.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/NwvqJGL.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        }
-      ]
-    },
-    {
       "identifier": "1",
       "name": "Birthday sticker",
       "publisher": "Best Sticker collection app",
@@ -349,6 +145,150 @@
         },
         {
           "image_file": "https://i.imgur.com/CXq2kqQ.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "20",
+      "name": "Birthday sticker 2",
+      "publisher": "Best Sticker collection app",
+      "tray_image_file": "https://i.imgur.com/7vk4oFJ.png",
+      "publisher_email": "imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://i.imgur.com/zJMklwA.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/mwoVS72.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/T8L64ub.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/6Jtwnbs.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/E9Ni3nP.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/rBiGglY.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/tt3LyD4.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/2l10Jwo.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/VO8shyG.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/WVYC19f.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/xJRUwc5.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/kZMo7tl.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/XidcAQE.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/fGU5gQv.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/1fpANoh.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/mPFtWHG.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/A7oj1ah.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/Dmq4Y3k.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/ND2XqK4.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/goqPZRz.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/4tvK539.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/6DSHWcu.png",
           "emojis": [
             "ðŸ™‚"
           ]
