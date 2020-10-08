@@ -2,204 +2,6 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.beststickercollection1",
   "sticker_packs": [
     {
-      "identifier": "22",
-      "name": "Father day sticker",
-      "publisher": "Best Sticker collection app",
-      "tray_image_file": "https://i.imgur.com/De3HsyK.png",
-      "publisher_email": "imagetagapplication@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "https://i.imgur.com/lqKsFql.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/BzhlSKH.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/sgX9j77.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/u863NEK.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/gAEyFIg.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/HJQhap0.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/oPFQXMY.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/BO3mvQA.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/aYLUVJ7.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/wOGPY07.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/lzE38YP.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/AifH26G.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/HhuQXa8.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/IxXPwG0.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/HA2Mifq.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        }
-      ]
-    },
-    {
-      "identifier": "21",
-      "name": "Yoga day sticker",
-      "publisher": "Best Sticker collection app",
-      "tray_image_file": "https://i.imgur.com/h8PzSPL.png",
-      "publisher_email": "imagetagapplication@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "https://i.imgur.com/j46nGlK.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/h00GxRh.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/no8gWrt.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/VAkgCOD.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/MiKucyy.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/XJKOoyZ.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/jMMsQsf.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/Aq2tPzP.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/mGi17nf.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/yEvKQzO.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/cgeqA0M.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/WFkiCKZ.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/8HGRTTP.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        },
-        {
-          "image_file": "https://i.imgur.com/aR1Z27F.png",
-          "emojis": [
-            "ðŸ™‚"
-          ]
-        }
-      ]
-    },
-    {
       "identifier": "1",
       "name": "Birthday sticker",
       "publisher": "Best Sticker collection app",
@@ -487,6 +289,162 @@
         },
         {
           "image_file": "https://i.imgur.com/6DSHWcu.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "22",
+      "name": "Birthday sticker 3",
+      "publisher": "Best Sticker collection app",
+      "tray_image_file": "https://i.imgur.com/5ZGQKc6.png",
+      "publisher_email": "imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://i.imgur.com/aPbwwif.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/YeN6q5T.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/cqryIjG.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/fw9XFlU.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/zy9CPTf.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/JESlFO3.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/6rDe2I3.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/P707AWs.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/JYdWcRd.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/SCyYVQU.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/hEOu78J.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/jNjkw9H.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/0lHbaVE.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/DfOLDa8.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/JkXW12W.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/fXmeP2S.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/SiunPwk.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/wzVqEFX.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/DND2pen.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/ooASUIp.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/ftTVwsG.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/PZcYhij.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/1MI0aQg.png",
+          "emojis": [
+            "ðŸ™‚"
+          ]
+        },
+        {
+          "image_file": "https://i.imgur.com/SJcfYI9.png",
           "emojis": [
             "ðŸ™‚"
           ]
