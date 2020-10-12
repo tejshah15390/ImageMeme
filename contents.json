@@ -1,6 +1,90 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.navratristicker.wastickerapps",
   "sticker_packs": [
+    {
+      "identifier": "8",
+      "name": "Navratri 2020",
+      "publisher": "ImageTag",
+      "tray_image_file": "https://i.imgur.com/dRa7qYI.png",
+      "publisher_email":"imagetagapplication@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+       "stickers": [
+        {
+          "image_file": "https://i.imgur.com/qjrBu9m.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/9NxzIGu.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/rXRsDJT.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/NqUdTdr.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/aVYC0xS.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/4sXW6Cz.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/3pCzJEm.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/D69qJSZ.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/UAiPkhn.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/tDqw5R7.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/XaVNa6c.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/xUKriDs.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/z3K1eec.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/wmx8VYp.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/bnJDOob.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/vwT2wcE.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/l57kxKn.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://i.imgur.com/VWx70ws.png",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    }, 
     {
       "identifier": "1",
       "name": "Jay Mata DI",
@@ -60,7 +144,7 @@
           "emojis": ["ðŸ™‚"]
         }
       ]
-    }, 
+    },
 	{
       "identifier": "2",
       "name": "Happy Navratri",
